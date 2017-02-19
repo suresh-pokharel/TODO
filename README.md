@@ -5,6 +5,7 @@ http://psuresh.com.np/DATA-MINING
 This is a demo project to keep records of todo list using Bootstrap-3, PHP, MySql, AJAX, JQuery, Alertify JS. Mysql database is used to keep records. Scripting language PHP is used for database CRUD operation. Alertify JS is used to alert messages with nice UI. AJAX has been used for background processing.
 
 ##Installation
+
 ###Step1:
 Make sure you have installed local server (WAMPP, XAMPP, LAMPP or other if you know) is installed on your computer.
 ###Step2:
