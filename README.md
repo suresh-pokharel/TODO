@@ -1,6 +1,3 @@
-###DEMO
-http://psuresh.com.np/TODO
-
 ##About
 This is a basic demo project to provide the knowledge about AJAX, PHP and Other JavaScript Libraries for beginners. It basically keeps the records of todo list using Bootstrap-3, PHP, MySql, AJAX, JQuery, Alertify JS. Mysql database is used to keep records. Scripting language PHP is used for database CRUD operation. Alertify JS is used to alert messages with nice UI. AJAX has been used for background processing.
 
@@ -29,3 +26,8 @@ $result=mysqli_query($dbconfig,"SELECT * FROM todo");
 ###Step4:
 Run the project on your browser.. localhost/TODO
 
+###DEMO
+http://psuresh.com.np/TODO
+
+###Screenshots
+![alt tag](https://raw.githubusercontent.com/suresh021/TODO/screenshots/img1.jpg)
