@@ -31,5 +31,5 @@ $result=mysqli_query($dbconfig,"SELECT * FROM todo");
 Run the project on your browser.. localhost/TODO
 
 ###DEMO
-http://psuresh.com.np/TODO
+http://psuresh.com.np/Miscellaneous/TODO/
 
