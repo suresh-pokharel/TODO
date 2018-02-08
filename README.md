@@ -28,7 +28,7 @@ If you want to change table name ,replace the text todo in both process.php and 
 $result=mysqli_query($dbconfig,"SELECT * FROM todo");
 ```
 ### Step4:
-Run the project on your browser.. localhost/TODO
+Run the project on your browser.. http://localhost/TODO
 
 ### DEMO
 http://projects.psuresh.com.np/TODO/
