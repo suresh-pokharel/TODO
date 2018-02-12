@@ -13,7 +13,7 @@ $host = 'localhost';
 $username = 'root';
 $password = '';
 $database = 'dm';
-Global $dbconfig;
+Global $dbconfig; // to use globally
 $dbconfig = mysqli_connect($host,$username,$password,$database) or die("An Error occured while connecting to the database");
 ?>
 
