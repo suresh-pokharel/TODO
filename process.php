@@ -9,10 +9,10 @@
 
 <?php
   /*Database Connection*/
-  $host = 'localhost';
-  $username = 'root';
-  $password = '';
-  $database = 'dm';
+  $host = 'eu-cdbr-west-02.cleardb.net';
+  $username = 'b1be3a26d2d39d';
+  $password = '22bb9a5f';
+  $database = 'heroku_ab050365848a9e1';
   Global $dbconfig;
   $dbconfig = mysqli_connect($host,$username,$password,$database) or die("An Error occured while connecting to the database");
 ?>
