@@ -14,7 +14,7 @@
   $password = '22bb9a5f';
   $database = 'heroku_ab050365848a9e1';
   Global $dbconfig;
-  $dbconfig = mysqli_connect($host,$username,$password,$database) or die("An Error occured while connecting to the database");
+  $dbconfig = mysqli_connect($host,$username,$password,$database,'3306') or die("An Error occured while connecting to the database");
 ?>
 <?php 
 	if (isset($_GET['insert_description'])) {
