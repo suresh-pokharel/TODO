@@ -1,3 +1,4 @@
+![todo](https://user-images.githubusercontent.com/36298335/38063035-c934a6d0-32ff-11e8-8330-ac66219c0f71.png)
 ## About
 This is a basic demo project to provide the knowledge about AJAX, PHP and Other JavaScript Libraries for beginners. It basically keeps the records of todo list using Bootstrap-3, PHP, MySql, AJAX, JQuery, Alertify JS. Mysql database is used to keep records. Scripting language PHP is used for database CRUD operation. Alertify JS is used to alert messages with nice UI. AJAX has been used for background processing.
 
